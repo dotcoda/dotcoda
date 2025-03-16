@@ -1,5 +1,5 @@
 ### About Me
-- Hi! My name is Coda Weeden :beetle:
+- Hi! My name is Coda W :beetle:
 - My pronouns are they/them :cyclone:
 - I am currently a second-year university student studying web development :four_leaf_clover:
   
