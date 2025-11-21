@@ -1,7 +1,8 @@
 ### About Me
 - Hi! My name is Coda W :beetle:
 - My pronouns are they/them :cyclone:
-- I am currently a second-year university student studying web development :four_leaf_clover:
+- I am currently a third-year university student studying web development :four_leaf_clover:
+- Fullstack web deveoper :tulip:
   
 ### Some things I like
 - Old web design :desktop_computer:
