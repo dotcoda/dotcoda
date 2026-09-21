@@ -17,7 +17,6 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)
 [![Astro](https://img.shields.io/badge/Astro-BC52EE?logo=astro&logoColor=fff)](#)
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](#)
-<!---
-dotcoda/dotcoda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![wakatime](https://wakatime.com/badge/user/dd92d11d-cbef-4336-a404-0ec96b5989b6.svg)](https://wakatime.com/@dd92d11d-cbef-4336-a404-0ec96b5989b6)
+
